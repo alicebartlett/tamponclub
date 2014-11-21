@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Variables
+$base-font-family: 'Roboto', Helvetica, Arial, sans-serif;
+$base-font-size:   20px;
+$small-font-size:  $base-font-size * 0.75;
+$base-line-height: 1.45;
+
+$gutter:     30px;
+$gutter-half: $gutter/2;
+
+// Colours
+$brand-colour:       #228fe3;
+$text-colour:        #111;
+$background-colour:  #fefefe;
+$link-colour:       $brand-colour;
+$link_underline:    #fb5f80;
+$header-colour:     $brand-colour;
+$footer-colour:      $brand-colour;
+$footer-text-colour: $background-colour;
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "base",
+  "layout"
+;
