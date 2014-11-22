@@ -94,7 +94,8 @@ a {
   text-decoration: none;
   background-repeat: repeat-x;
   background-position: 0% 93%;
-  background-image:-webkit-linear-gradient(left, $link-colour 50%, white 50%);
+  background-image: linear-gradient(0deg, $link-colour 100%, $link-colour 0%);
+  
   background-size: 200% 1px;
   
   /* borrowed with admiration from mhurrell.co.uk */
@@ -112,7 +113,7 @@ a {
   
   &:hover, 
   &:focus {
-    background-image:-webkit-linear-gradient(left, $link_underline 50%, white 50%);
+    background-image: linear-gradient(0deg, $link_underline 100%, $link_underline 0%);
   } 
 }
 
