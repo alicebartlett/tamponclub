@@ -98,8 +98,7 @@ a {
   background-size: 200% 1px;
   
   /* borrowed with admiration from mhurrell.co.uk */
-  text-shadow: -0.18em 0 0 $background-colour, 
-               0.18em 0 0 $background-colour, 
+  text-shadow: 0.18em 0 0 $background-colour, 
                -0.12em 0 0 $background-colour, 
                0.12em 0 0 $background-colour, 
                -0.06em 0 0 $background-colour, 
