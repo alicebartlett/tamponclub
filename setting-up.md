@@ -26,7 +26,7 @@ Some women use applicator tampons, some use non-applicator, some only use sanita
 Some women are a lot better organised that us, they don't get caught out and they don't need tampons in the toilets. Some women don't have periods. For some women periods are deeply personal and not something they want to discuss with colleagues.
 
 ## Don't forget the disabled toilets
-Aside from the fact that people with disabilities have periods too, disabled toilets are also sometimes used by transgender men who do not feel comfortable using the men's toilets. So remember to put tampons in these toilets as well. We've found that the design of disabled toilets can leave no flat ledges to put a tampon container on, to get around this, you can use a container that attaches to a glass surface (e.g. a mirror) such as [this one](http://www.amazon.co.uk/gp/product/B0014XQC90?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00). 
+Aside from the fact that people with disabilities have periods too, disabled toilets are also sometimes used by transgender men who do not feel comfortable using the men's toilets. So remember to put tampons in these toilets as well. We've found that the design of disabled toilets can leave no flat ledges to put a tampon container on, to get around this, you can use a container that attaches to a glass surface (e.g. a mirror) such as [this one](http://www.amazon.co.uk/gp/product/B0014XQC90?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00).
 
 ## Let us know how you get on
 Set up a Tampon Club? Let us know how it's going, send us a photo of your beautifully arranged tampons by emailing <a href='mailto:hi@tampon.club'>hi@tampon.club<a/> or Tweeting us [@tampon_club](http://twitter.com/tampon_club).
