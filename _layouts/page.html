@@ -2,8 +2,10 @@
 <html>
   {% include head.html %}
 <body>
-  {% include header.html %}
-  {{ content }}
+  {% include header-slim.html %}
+  <div class='inner page'>
+    {{ content }}
+  </div>
   {% include footer.html %}
 </body>
 </html>

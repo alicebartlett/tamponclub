@@ -14,7 +14,10 @@ header {
   }
 }
 
-
+header.site-header-slim {
+  background-color: $background-colour;
+  margin-bottom: $gutter;
+}
 
 #logo {
   display: block;
@@ -22,11 +25,21 @@ header {
 }
 
 
-
-h2 {
-  padding-top:$gutter;
+.page h1,
+.page h2 {
+  background-color: $brand-colour;
+  color: $background-colour;
+  margin: $gutter -21px $gutter-half;
+  padding: 0 21px;
 }
 
+.page h1 {
+  margin-top: 0;
+}
+
+.page p {
+  padding-bottom: $gutter;
+}
 
 
 /**
@@ -42,27 +55,31 @@ footer {
   p {
     text-align:right;
   }
-  
-  a {
-    color: $footer-text-colour;
-    background-image:-webkit-linear-gradient(left, $footer-text-colour 50%, white 50%);                
-    text-shadow: -0.18em 0 0 $footer-colour,
-                 0.18em 0 0 $footer-colour, 
-                 -0.12em 0 0 $footer-colour, 
-                 0.12em 0 0 $footer-colour, 
-                 -0.06em 0 0 $footer-colour, 
-                 0.06em 0 0 $footer-colour, 
-                 0 -1px 0 $footer-colour, 
-                 0 1px 0 $footer-colour;
-      
-    &:hover, 
-    &:focus {
-      background-image:-webkit-linear-gradient(left, $link_underline 50%, white 50%);                
-    }
-  }
 }
 
 
+
+footer a,
+header a {
+  color: $footer-text-colour;
+  background-image:-webkit-linear-gradient(left, $footer-text-colour 50%, white 50%);                
+  text-shadow: -0.18em 0 0 $footer-colour,
+               0.18em 0 0 $footer-colour, 
+               -0.12em 0 0 $footer-colour, 
+               0.12em 0 0 $footer-colour, 
+               -0.06em 0 0 $footer-colour, 
+               0.06em 0 0 $footer-colour, 
+               0 -1px 0 $footer-colour, 
+               0 1px 0 $footer-colour;
+
+  &:hover, 
+  &:focus {
+    background-image:-webkit-linear-gradient(left, $link_underline 50%, white 50%);                
+  }
+  &:visited {
+    color: $footer-text-colour;
+  }
+}
 
 /**
  * Page content
