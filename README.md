@@ -7,6 +7,4 @@ It's a very standard Jekyll/github pages thingy.
 # Todo:
 - Licence
 - Need a photo of an actual Tampon Club for the setting-up-page
-- 404 page
-- Favicon
 - Something about "does you employer provide tampons for you already?"
