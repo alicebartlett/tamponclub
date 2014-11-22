@@ -16,10 +16,11 @@ $gutter-half: $gutter/2;
 
 // Colours
 $brand-colour:       #228fe3;
+$secondary-brand-colour: #fb5f80;
 $text-colour:        #111;
 $background-colour:  #fefefe;
 $link-colour:        $brand-colour;
-$link_underline:     #fb5f80;
+$link_underline:     $secondary-brand-colour;
 $header-colour:      $brand-colour;
 $footer-colour:      $brand-colour;
 $footer-text-colour: $background-colour;
