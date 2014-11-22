@@ -1,24 +1,52 @@
 .inner {
-  max-width: 600px;
+  max-width: 750px;
   margin: auto;
   padding: 0 1em;
 }
 
 .home {
+  margin-top: $gutter;
   padding-bottom: $gutter*2;
+
+  @include media(desktop){
+    margin-top: $gutter*2;
+  }
+
   p {
     margin-bottom: 20px;
   }
+
   h2 {
     padding-top: $gutter;
+
+    @include media(desktop){
+      transform: rotate(-10deg) translate(-50px, -30px);
+      max-width: 50%;
+      text-align: center;
+    }
   }
 }
 
-header {
-  background-color: $header-colour;
-  margin-bottom: $gutter*2;
-  .inner {
-    padding: $gutter-half 0;
+.header {
+  background: url(/images/logo.svg) no-repeat;
+  background-size: 200px;
+  width: 200px;
+  height: 200px;
+  margin: $gutter auto;
+
+  @include media(desktop){
+    background-size: 250px;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-left: -50px;
+  }
+}
+
+.content {
+  @include media(desktop){
+    width: 500px;
+    margin-left:250px;
   }
 }
 
@@ -48,6 +76,18 @@ p {
   padding-bottom: $gutter;
 }
 
+
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
 
 /**
  * Site footer
