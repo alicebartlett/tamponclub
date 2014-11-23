@@ -4,7 +4,7 @@
   padding: 0 1em;
 }
 
-.home {
+.home, .page {
   margin-top: $gutter;
   padding-bottom: $gutter*2;
 
@@ -15,15 +15,17 @@
   p {
     margin-bottom: 20px;
   }
+}
 
-  h2 {
-    padding-top: $gutter;
+h2 {
+  padding-top: $gutter;
+}
 
-    @include media(desktop){
-      transform: rotate(-10deg) translate(-50px, -30px);
-      max-width: 50%;
-      text-align: center;
-    }
+.home h2{
+  @include media(desktop){
+    transform: rotate(-10deg) translate(-50px, -30px);
+    max-width: 53%;
+    text-align: center;
   }
 }
 
@@ -54,28 +56,6 @@ header.site-header-slim {
   background-color: $background-colour;
   margin-bottom: $gutter;
 }
-
-#logo {
-  display: block;
-  margin: auto;
-}
-
-.page h1,
-.page h2 {
-  background-color: $brand-colour;
-  color: $background-colour;
-  margin: $gutter -21px $gutter-half;
-  padding: 0 21px;
-}
-
-.page h1 {
-  margin-top: 0;
-}
-
-p {
-  padding-bottom: $gutter;
-}
-
 
 
 .visually-hidden {

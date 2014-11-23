@@ -5,8 +5,8 @@ permalink: /setting-up-a-tampon-club/
 
 ---
 
-#Setting up your own Tampon Club
-Setting up your own Tampon Club is as easy as putting some tampons in a toilet and inviting women to use them if they need them. Here are a few other things to think about.
+#Start your own Tampon Club
+Starting a Tampon Club is as easy as putting some tampons in a toilet and inviting women to use them if they need them. Here are a few other things to think about.
 
 ## Make it look proper
 There is an outside chance that, when you set up your Tampon Club, someone is going to come in and clear it away. Maybe a cleaner, maybe someone who thinks you left your tampons out by mistake, maybe someone who thinks they shouldn't be there. Minimise this risk by making them look like they are supposed to be there. Buy a plastic container to put them in ([this one is good](http://www.muji.eu/pages/online.asp?Sec=17&Sub=80&PID=1667), or if there are no flat surfaces in your toilets you could try [this one](http://www.amazon.co.uk/gp/product/B0014XQC90?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00)&hellip;). Add a little notice about why they're there. You could do this anonymously or add your name so people can ask questions.
