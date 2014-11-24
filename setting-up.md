@@ -25,7 +25,7 @@ To help communicate this put a little notice in or near the box. Something like:
 > Hello! These tampons and sanitary towels are provided for everyone by other users of this toilet. If you'd like to contribute your own or replace what you've used you're welcomed to do so. Find out more: http://tampon.club.
 
 ## Don't forget the accessible toilets
-If you're not a regular user of the accessible toilets in your office, don't forget to include them in your Tampon Club. Aside from the fact that people with disabilities have periods too, accessible toilets may also be used by trans men who don't feel comfortable using the men's toilets. 
+If you're not a regular user of the accessible toilets in your office, don't forget to include them in your Tampon Club. Aside from the obvious, that people with disabilities need tampons too, accessible toilets may also be used by trans men who don't feel comfortable using the men's toilets. 
 
 We've found that the design of accessible toilets can leave no flat ledges to put a tampon container on. To get around this, you can use a container that attaches to a glass surface (e.g. a mirror) such as [this one](http://www.amazon.co.uk/gp/product/B0014XQC90?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00).
 
