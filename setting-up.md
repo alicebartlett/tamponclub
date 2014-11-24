@@ -31,7 +31,7 @@ If you're not a regular user of the accessible toilets in your office, don't for
 We've found that the design of accessible toilets can leave no flat ledges to put a tampon container on. To get around this, you can use a container that attaches to a glass surface (e.g. a mirror) such as [this one](http://www.amazon.co.uk/gp/product/B0014XQC90?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00).
 
 ## Tampon Club is not going to be for everyone
-Some women are a lot better organised than us; they don't get caught out and they don't need tampons in the toilets. Some women don't have periods. For some women periods are deeply personal and not something they want to discuss with colleagues. Though in our experience the positive feedback _hugely_ outweighs the negative, do be prepared to listen to feedback from other users of the toilets and adapt your Tampon Club accordingly.
+Some women are a lot better organised than us; they don't get caught out and they don't need tampons in the toilets. Some women don't have periods. For some women periods are deeply personal and not something they want to discuss with colleagues. In short, everyone is different, so be prepared to listen to feedback from other users of the toilets and adapt your Tampon Club accordingly.
 
 ## Want to read a bit more?
 Laura Cowen has set up a Tampon Club at IBM and [blogged about it](http://lauracowen.co.uk/blog/2014/10/17/tampon-club-hursley/), and over on alicebartlett.co.uk you can find some more words about [setting up a Tampon Club](http://alicebartlett.co.uk/blog/tampon-club).
