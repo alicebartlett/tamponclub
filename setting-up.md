@@ -5,7 +5,7 @@ permalink: /setting-up-a-tampon-club/
 
 ---
 
-#Start your own Tampon Club
+#Start a Tampon Club
 Starting a Tampon Club is as easy as putting some tampons in a toilet and inviting women to use them if they need them. Here are a few other things to think about.
 
 ## Start small
