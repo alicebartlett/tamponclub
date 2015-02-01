@@ -1,7 +1,7 @@
 # Site settings
 title: Tampon Club
 description: > # this means to ignore newlines until "baseurl:"
-  Like tampons? Like clubs? You'll love Tampon Club
+  Tampon Club. Tampons when you need them.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tampon.club" # the base hostname & protocol for your site
 
