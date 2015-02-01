@@ -2,20 +2,22 @@
 <html>
   {% include head.html %}
 <body>
-  <div class='inner quiz'>
-    {% include header.html %}
-
-    <div class='content'>
-      <h1>Tampon Club for Dudes - the Quiz!</h1>
-      <h2 id='question'></h2>
-      <p id='subtext'></p>
-      <div id='answers'>
-        <button class='first answer' id='answer1'>
-          Yes
-        </button>
-        <button class='second answer' id='answer2'>
-          No
-        </button>
+  {% include top-nav.html %}
+  <div class='inner'>
+    <div class='quiz'>
+      {% include header.html %}
+      <div class='content'>
+        <h1>{{ page.question-number }}</h1>
+        <h2 id='question'>{{ page.question }}</h2>
+        <p id='subtext'>{{ page.explainer }}</p>
+        <div id='answers'>
+          <a class='button' role="button" href="{{ page.yep }}">
+            Yes
+          </a>
+          <a class='button' role="button" href="{{ page.nope }}">
+            No
+          </a>
+        </div>
       </div>
     </div>
   </div>

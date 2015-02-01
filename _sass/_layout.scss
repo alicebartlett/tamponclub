@@ -17,7 +17,7 @@ footer, .pusher {
   height: 60px;
 }
 
-.home, .page {
+.home, .page, .quiz{
   margin: $gutter $gutter-half;
   padding-bottom: $gutter*2;
 
@@ -30,8 +30,13 @@ footer, .pusher {
   }
 }
 
+h1 {
+  line-height: 1.2em;
+}
+
 h2 {
   padding-top: $gutter;
+  line-height: 1.2em;
 }
 
 .home h2 {
@@ -56,6 +61,32 @@ h2 {
     width: 250px;
     float: left;
     margin-top: 0;
+  }
+}
+
+#top-nav {
+  background-color: $footer-colour;
+  font-size: $small-font-size;
+  padding: $gutter-half;
+
+  .nav-inner {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  ul {
+    margin: 0;
+    li {
+      @include media(desktop){
+
+        display: inline-block;
+        padding: 0 $gutter-half;
+      }
+    }
+  }
+
+  a {
+    color: $footer-text-colour;
   }
 }
 
@@ -90,14 +121,43 @@ footer {
   color: $footer-text-colour;
   font-size: $small-font-size;
 
+  &.home-footer {
+    height: 200px;
+
+    @include media(desktop){
+      height:100px;
+    }
+
+    p, ul {
+      padding: $gutter-half;
+
+      @include media(desktop){
+        display: inline-block;
+        width: 46%;
+        float: left
+      }
+    }
+
+    ul {
+      margin-left: 0;
+      li {
+        list-style: none;
+      }
+    }
+  }
+
   p {
     padding: $gutter-half;
-    text-align:right;
+
+    @include media(desktop){
+      text-align:right;
+    }
   }
 }
 
 footer a,
-header a {
+header a,
+#top-nav a {
   color: $footer-text-colour;
 
   background-image: linear-gradient(0deg, $footer-text-colour 0%, $footer-text-colour 50%);
@@ -140,24 +200,26 @@ header a {
 .quiz {
   .quiz-header {
     margin: $gutter 0;
-
   }
 
   h1.title {
     line-height: 1.2em;
     transform: rotate(-10deg) translate(-50px, -30px);
-
   }
 
-  button {
+  a.button {
+    margin-top: $gutter*2;
     font-size : 4em;
+    text-shadow: none;
+    text-align: center;
+    background-image: none;
     background-color: $brand-colour;
     cursor: pointer;
     font-family: $base-font-family;
     font-style:italic;
     color: $background-colour;
     border: none;
-    width: 49%;
+    width: 47%;
     padding: 1%;
     display: inline-block;
 
