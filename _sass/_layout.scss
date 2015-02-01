@@ -1,11 +1,24 @@
+* {
+margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
 .inner {
-  max-width: 750px;
-  margin: auto;
-  padding: 0 1em;
+  min-height: 100%;
+  margin: 0 auto -60px; /* the bottom margin is the negative value of the footer's height */
+  max-width: 800px;
+  overflow: auto;
+}
+
+footer, .pusher {
+  height: 60px;
 }
 
 .home, .page {
-  margin-top: $gutter;
+  margin: $gutter $gutter-half;
   padding-bottom: $gutter*2;
 
   @include media(desktop){
@@ -21,7 +34,7 @@ h2 {
   padding-top: $gutter;
 }
 
-.home h2{
+.home h2 {
   @include media(desktop){
     transform: rotate(-10deg) translate(-50px, -30px);
     max-width: 53%;
@@ -42,7 +55,6 @@ h2 {
     height: 250px;
     width: 250px;
     float: left;
-    margin-left: -50px;
     margin-top: 0;
   }
 }
@@ -50,7 +62,7 @@ h2 {
 .content {
   @include media(desktop){
     width: 500px;
-    margin-left:250px;
+    margin-left:300px;
   }
 }
 
@@ -75,13 +87,12 @@ header.site-header-slim {
  * Site footer
  */
 footer {
-  padding: $gutter-half 0;
-  margin-top: $gutter*2;
   background-color: $footer-colour;
   color: $footer-text-colour;
   font-size: $small-font-size;
 
   p {
+    padding: $gutter-half;
     text-align:right;
   }
 }

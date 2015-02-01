@@ -2,11 +2,14 @@
 <html>
   {% include head.html %}
 <body>
-  <div class='inner page'>
-    {% include header.html %}
-    <div class='content'>
-      {{ content }}
+  <div class='inner'>
+    <div class='page'>
+      {% include header.html %}
+      <div class='content'>
+        {{ content }}
+      </div>
     </div>
+    <div class="pusher"></div>
   </div>
   {% include footer.html %}
 </body>
