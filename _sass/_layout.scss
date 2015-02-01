@@ -61,7 +61,6 @@ h2 {
 
 .content {
   @include media(desktop){
-    width: 500px;
     margin-left:300px;
   }
 }
