@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Home | Tampon Club
-
+title: Home
 ---
 In offices that don't provide free tampons for staff, it's easy to get caught out when you need one. Tampon Club is just a bunch of women leaving tampons and sanitary towels in their workplace toilets, so that they're available when required. No more walking back to your locker to get out a tampon, no more sneaking one up your sleeve; tampons in the loo when you need one. Simple as that.
 
