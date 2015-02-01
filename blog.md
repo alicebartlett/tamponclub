@@ -1,11 +1,13 @@
 ---
 title: Tampon Club Blog
-layout: blog
+layout: page
 permalink: /blog/
 
 ---
 
+#Tampon Club Blog!
 
+We have one post, behold:
 <ul>
   {% for post in site.posts %}
     <li>
