@@ -11,7 +11,7 @@ Since we set up Tampon Club a bunch of stand up gents have asked us
 
 Well, first thing's first, thank you for your enquiry. It's cool that you want to help. Now, it's kind of tricky to offer advice on this because the best course of action depends on a couple of things, like what your job is, what the toilets in your office are like, how many women you work with etcetera. We started writing the longest blog post in the world to explain this but then realised what we really needed was...
 
-[Tampon Club for dudes -the QUIZ!](/quiz/take-the-quiz)
+[Tampon Club for dudes -the QUIZ!](/quiz/)
 
 ## I'm a dude and I don't want to help
 
