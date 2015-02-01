@@ -130,3 +130,43 @@ header a {
 .page-heading {
     font-size: 20px;
 }
+
+
+
+/**
+ * QUIZ
+ */
+
+.quiz {
+  .quiz-header {
+    margin: $gutter 0;
+
+  }
+
+  h1.title {
+    line-height: 1.2em;
+    transform: rotate(-10deg) translate(-50px, -30px);
+
+  }
+
+  button {
+    font-size : 4em;
+    background-color: $brand-colour;
+    cursor: pointer;
+    font-family: $base-font-family;
+    font-style:italic;
+    color: $background-colour;
+    border: none;
+    width: 49%;
+    padding: 1%;
+    display: inline-block;
+
+    &:hover {
+      background-color: darken($link-colour, 10%);
+    }
+
+    &:active {
+      background-color: $secondary-brand-colour;
+    }
+  }
+}
