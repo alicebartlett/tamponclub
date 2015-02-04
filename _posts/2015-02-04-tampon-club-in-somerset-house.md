@@ -1,15 +1,15 @@
 ---
-title: Tampon Club Starter Kits
+title: Tampon Club starter kits
 layout: page
 ---
 
-#You can now buy Tampon Club Starter Kits at the #civicshop in Somerset House
+#You can now buy Tampon Club starter kits at the #civicshop in Somerset House
 
-In December [Cassie Robinson](http://twitter.com/CassieRobinson) got in touch with us to ask if we'd like to sell 'Tampon Club Starter Kits' as part of her [Civic Shop in Somerset House](http://www.civicworkshop.city/civic-shop/).
-
-The Civic Shop is an exploration into the lines between civic spaces and commercial spaces. It is a shop that sells civic-minded products from organisations including [FutureGov](http://wearefuturegov.com/), [Citizens Advice](http://www.citizensadvice.org.uk/), [Crafts Council](http://www.craftscouncil.org.uk/) and more.
+In December [Cassie Robinson](http://twitter.com/CassieRobinson) got in touch with us to ask if we'd like to sell 'Tampon Club starter kits' as part of her [Civic Shop in Somerset House](http://www.civicworkshop.city/civic-shop/).
 
 (from [http://www.civicworkshop.city/](http://www.civicworkshop.city/blog/2015/1/15/we-are-now-open))
+
+>The Civic Shop showcases the work of a new generation of civic activists and social designers - inventors of new public spaces, new economies and champions of public good in everyday life.
 
 >At the Civic Shop, there are some things that are for sale and some things that are free. Any money made goes back into the causes that inspired the products in the first place. Most of all though, each of the initiatives showcased here is an invitation to participate.
 
@@ -24,6 +24,6 @@ The Tampon Club starter kits contain everything you need to set up a Tampon Club
 - A laminated information card to leave near your Tampon Club
 - 2 Tampon Club Stickers
 
-![photograph of a Tampon Club Starter Kit](/images/blog/starter_kit.jpg)
+![photograph of a Tampon Club Starter Kit]({{ site.url }}/images/blog/starter_kit.jpg)
 
-Proceeds from Starter Kits go to [Solace Women's Aid](http://www.solacewomensaid.org/), a London based charity for women and children affected by domestic abuse and sexual violence. Tampon Club Starter Kits cost £10. The Civic Shop will be running in Somerset House until mid March and is open Wednesday - Sunday 12pm-6pm.
+ Tampon Club starter kits cost £10 and proceeds from Starter Kits go to [Solace Women's Aid](http://www.solacewomensaid.org/), a London based charity for women and children affected by domestic abuse and sexual violence. The Civic Shop will be running in Somerset House until mid March and is open Wednesday - Sunday 12pm-6pm.
