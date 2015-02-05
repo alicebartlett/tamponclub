@@ -28,4 +28,8 @@ The Tampon Club starter kits contain everything you need to set up a Tampon Club
 
 ![photograph of a Tampon Club Starter Kit]({{ site.url }}/images/blog/starter_kit.jpg)
 
+<<<<<<< HEAD
 Kits cost £10 and proceeds from go to [Solace Women's Aid](http://www.solacewomensaid.org/), a London based charity for women and children affected by domestic abuse and sexual violence. The Civic Shop will be running in Somerset House until mid March and is open Wednesday - Sunday 12pm-6pm.
+=======
+ Tampon Club starter kits cost £10 and proceeds go to [Solace Women's Aid](http://www.solacewomensaid.org/), a London based charity for women and children affected by domestic abuse and sexual violence. The Civic Shop will be running in Somerset House until mid March and is open Wednesday - Sunday 12pm-6pm.
+>>>>>>> 9c1e306... fixed typo
