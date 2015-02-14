@@ -17,6 +17,23 @@ If your company is of a smaller scale, consider putting a box of tampons and a b
 Absolutely! If your company provides any kinds of 'perks', like tea, coffee, milk, beer or free lunches, then you should _definitely_ be providing free tampons in the women's toilets. This provision will not only help your employees be more productive but it's also going to be really useful for anyone visiting your office who gets caught short, as she is even less likely to be able to pop out of the office to buy tampons or ask a colleague for one.
 
 ## How much will it cost?
+- The number of tampons a woman uses per cycle is estimated to be around 20.
+- A woman has on average 13 cycles per year
+- Thats 260 tampons per year
+- A woman working 40 hours per week with 30 day's holiday will spend 30.5% of her year working
+
+30.5% of 260 = 79.3
+
+So in a year you would have to pay for approximately 79.3 tampons per woman assuming 13 menstrual cycles per year using 20 tampons per cycle.
+
+The cheapest tampons sold by UK retailer Boots are 5p per unit, but let's round it up to 10p as this is closer to the average cost per unit.
+
+So to provide free tampons for one woman in your office is going to cost about 79.3*0.1 per year, that's £7.93.
+
+Sanitary towels are more like 15p per unit but are used by fewer women. You should still provide some of these as many women use them because they can't use tampons or simply prefer them.
+
+In order to work out how much this is going to cost for your entire workforce you'll need to know how many women you employ. This is your maximum number to provide for, though the number is going to be slightly less as many women don't have periods.
+
 Providing free tampons and sanitary towels is very cheap per employee, but if you're worried setting this up is going to cripple your company financially then try a pilot scheme for a few months to see how much this will cost you.
 
 ## If I provide tampons for women will I have to provide stuff for men too so it's fair?
