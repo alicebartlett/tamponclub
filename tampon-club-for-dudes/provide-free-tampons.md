@@ -6,7 +6,7 @@ permalink: /tampon-club-for-dudes/provide-free-tampons/
 
 #Great news!
 
-You're exactly the type of person who can provide free tampons for employees –you don't even _need_ Tampon Club.
+You're exactly the type of person who can provide free tampons for employees – you don't even _need_ Tampon Club.
 
 If your company already has tampon machines in the toilets, you can hook into the existing tampon machine and services infrastructure to get tampons supplied to your employees pretty straightforwardly.
 
@@ -16,6 +16,7 @@ If your company is of a smaller scale, consider putting a box of tampons and a b
 
 Absolutely! If your company provides any kinds of 'perks', like tea, coffee, milk, beer or free lunches, then you should _definitely_ be providing free tampons in the women's toilets. This provision will not only help your employees be more productive but it's also going to be really useful for anyone visiting your office who gets caught short, as she is even less likely to be able to pop out of the office to buy tampons or ask a colleague for one.
 
+## How much will it cost?
 Providing free tampons and sanitary towels is very cheap per employee, but if you're worried setting this up is going to cripple your company financially then try a pilot scheme for a few months to see how much this will cost you.
 
 ## If I provide tampons for women will I have to provide stuff for men too so it's fair?
