@@ -18,5 +18,5 @@ Possibly? Probably. But here's the deal: do it anonymously and let us take the f
 
 ## Will I have to maintain it forever?
 
-Nope! add a little note inviting anyone who finds it useful to contribute and hopefully it will become self-sustaining. If it doesn't, well, you tried. Head over to the [Setting up a Tampon Club](setting-up) page for more tips on how to get started.
+Nope! Add a little note inviting anyone who finds it useful to contribute and hopefully it will become self-sustaining. If it doesn't, well, you tried. Head over to the [Setting up a Tampon Club](setting-up) page for more tips on how to get started.
 
