@@ -1,7 +1,7 @@
 ---
 title: Provide free tampons for your employees
-layout: page
-permalink: quiz/provide-free-tampons/
+layout: quiz-answer
+permalink: /tampon-club-for-dudes/provide-free-tampons/
 ---
 
 #Great news!
