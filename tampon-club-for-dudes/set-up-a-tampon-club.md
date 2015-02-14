@@ -10,7 +10,7 @@ You're in a great position to set up a Tampon Club if either of the following ar
 - You use the women's toilets
 - Your workplace has shared toilets or one shared toilet (sometimes the accessible toilet is shared)
 
-Setting up a Tampon Club is a piece of cake, head over to the [Setting up a Tampon Club](setting-up) page and get cracking!
+Setting up a Tampon Club is a piece of cake, head over to the [Setting up a Tampon Club](/setting-up-a-tampon-club/) page and get cracking!
 
 ## Aren't people going to think I'm a little odd?
 
@@ -18,5 +18,5 @@ Possibly? Probably. But here's the deal: do it anonymously and let us take the f
 
 ## Will I have to maintain it forever?
 
-Nope! Add a little note inviting anyone who finds it useful to contribute and hopefully it will become self-sustaining. If it doesn't, well, you tried. Head over to the [Setting up a Tampon Club](setting-up) page for more tips on how to get started.
+Nope! Add a little note inviting anyone who finds it useful to contribute and hopefully it will become self-sustaining. If it doesn't, well, you tried. Head over to the [Setting up a Tampon Club](/setting-up-a-tampon-club/) page for more tips on how to get started.
 
