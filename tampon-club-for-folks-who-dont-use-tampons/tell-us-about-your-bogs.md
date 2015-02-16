@@ -2,7 +2,7 @@
 title: Tell us about your office toilets
 layout: quiz-answer
 permalink: tampon-club-for-folks-who-dont-use-tampons/tell-us-about-your-bogs/
-redirect_from: "/tell-us-about-your-bogs/tell-people-about-tampon-club/"
+redirect_from: "/tampon-club-for-dudes/tell-us-about-your-bogs/"
 ---
 
 # Tell us about your workplace bogs!

@@ -2,6 +2,7 @@
 title: Provide free tampons for your employees
 layout: quiz-answer
 permalink: /tampon-club-for-folks-who-dont-use-tampons/provide-free-tampons/
+redirect_from: "/tampon-club-for-dudes/provide-free-tampons/"
 ---
 
 #Great news!
