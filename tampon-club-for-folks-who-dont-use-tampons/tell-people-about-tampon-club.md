@@ -2,6 +2,7 @@
 title: Tell people about Tampon Club
 layout: quiz-answer
 permalink: tampon-club-for-folks-who-dont-use-tampons/tell-people-about-tampon-club/
+redirect_from: "/tampon-club-for-dudes/tell-people-about-tampon-club/"
 ---
 # Share Tampon Club with friends
 
