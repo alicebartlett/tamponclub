@@ -1,7 +1,7 @@
 ---
 title: Provide free tampons for your employees
 layout: quiz-answer
-permalink: tampon-club-for-folks-who-dont-use-tampons/provide-free-tampons/
+permalink: /tampon-club-for-folks-who-dont-use-tampons/provide-free-tampons/
 ---
 
 #Great news!
@@ -37,8 +37,13 @@ So providing free tampons for one person in your office is going to cost about 4
 
 Sanitary towels are more like 15p per unit but are used by fewer people. You should still provide some of these as many folks use them because they can't use tampons or simply prefer them.
 
-It is not possible to find out how many people you employ that need tampons without asking some very personal questions of your employees (not an approach we recommend). There are many reasons why you can't simply take the number of women you employ as your number to provide for. Not all menstruating folk use disposable sanitary wear, not all women have periods, and not all men don't have periods. As a very rough suggestion, you could take the number of women you employ and treat that as your maximum number to provide for, though it won't account for trans men it will over account by including the number of women who aren't having periods and the number who are using reusable sanitary products.
+It is not possible to find out the number of employees you have that need tampons without asking some very personal questions (not an approach we recommend). There are many reasons why you can't simply take the number of women at your company as your number to provide for, here are some of them:
 
+- Not all menstruating folk use disposable sanitary wear
+- Not all women have periods
+- Not all men don't have periods.
+
+As a number to get you started, take the number of women you employ and treat it as your maximum. That won't account for any trans men, but it will over account for women who aren't having periods or don't use tampons.
 
 Providing free tampons and sanitary towels is very cheap per employee, but if you're worried that setting this up is going to cripple your company financially then try a pilot scheme for a few months to see how much it costs.
 
