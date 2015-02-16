@@ -1,5 +1,5 @@
 ---
-redirect_from: "/tampon-club-for-dudes"
+redirect_from: "/tampon-club-for-dudes/"
 title: Tampon Club for folks who don't use tampons
 layout: page
 permalink: /tampon-club-for-folks-who-dont-use-tampons/
