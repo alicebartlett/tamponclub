@@ -1,7 +1,7 @@
 ---
 title: Tell us about your office toilets
 layout: quiz-answer
-permalink: /tampon-club-for-dudes/tell-us-about-your-bogs/
+permalink: tampon-club-for-folks-who-dont-use-tampons/tell-us-about-your-bogs/
 ---
 
 # Tell us about your workplace bogs!

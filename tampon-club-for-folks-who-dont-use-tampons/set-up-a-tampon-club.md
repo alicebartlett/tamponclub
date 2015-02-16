@@ -1,7 +1,7 @@
 ---
 title: Set up a tampon club
 layout: quiz-answer
-permalink: /tampon-club-for-dudes/set-up-a-tampon-club/
+permalink: tampon-club-for-folks-who-dont-use-tampons/set-up-a-tampon-club/
 ---
 # You don't need to be having periods to set up a Tampon Club
 
