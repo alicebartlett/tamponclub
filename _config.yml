@@ -7,3 +7,6 @@ url: "http://www.tampon.club" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-redirect-from

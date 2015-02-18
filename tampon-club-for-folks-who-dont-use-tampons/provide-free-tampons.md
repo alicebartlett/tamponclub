@@ -1,7 +1,8 @@
 ---
 title: Provide free tampons for your employees
 layout: quiz-answer
-permalink: /tampon-club-for-dudes/provide-free-tampons/
+permalink: /tampon-club-for-folks-who-dont-use-tampons/provide-free-tampons/
+redirect_from: "/tampon-club-for-dudes/provide-free-tampons/"
 ---
 
 #Great news!
@@ -14,10 +15,10 @@ If your company is of a smaller scale, consider putting a box of tampons and a b
 
 ## Really? My company should provide free tampons for employees?
 
-Absolutely! If your company provides any kinds of 'perks', like tea, coffee, milk, beer or free lunches, then you should _definitely_ be providing free tampons in the women's toilets. This provision will not only help your employees be more productive but it's also going to be really useful for anyone visiting your office who gets caught short, as she is even less likely to be able to pop out of the office to buy tampons or ask a colleague for one.
+Absolutely! If your company provides any kinds of 'perks', like tea, coffee, milk, beer or free lunches, then you should _definitely_ be providing free tampons in the toilets. This provision will not only help your employees be more productive but it's also going to be really useful for anyone visiting your office who gets caught short, as they're even less likely to be able to pop out of the office to buy tampons or ask a colleague for one.
 
 ## How much will it cost?
-Estimates of the number of tampons a woman uses per year vary between sources:
+Estimates of the number of tampons used by a period having individual per year vary between sources:
 
 - [This study](http://www.ncbi.nlm.nih.gov/pubmed/21673197) of 110 women found they used a median of 169 products per year.
 - [Divacup.com](http://divacup.com/community/eco-divas/) states that women use 240 tampons each year though doesn't cite a source.
@@ -25,19 +26,25 @@ Estimates of the number of tampons a woman uses per year vary between sources:
 
 169 is the lowest number we've found and 240 is the highest, let's take the mean of those two numbers and call it 204 tampons per year.
 
-A woman working 8 hours per day on a 5 day week with 30 days holiday per year will spend 21% of her year in the office.
+Someone working 8 hours per day on a 5 day week with 30 days holiday per year will spend 21% of the year in the office (unless the work from home).
 
 21% of 204 = 42.84
 
-42.84 is the number of tampons she'll need while at work.
+42.84 is the number of tampons needed while at work.
 
 The cheapest tampons sold by UK retailer Boots are 5p per unit, but let's round it up to 10p as this is closer to the average cost per unit.
 
-So providing free tampons for one woman in your office is going to cost about 42.84*0.1 per year, that's £4.28.
+So providing free tampons for one person in your office is going to cost about 42.84*0.1 per year, that's £4.28.
 
-Sanitary towels are more like 15p per unit but are used by fewer women. You should still provide some of these as many women use them because they can't use tampons or simply prefer them.
+Sanitary towels are more like 15p per unit but are used by fewer people. You should still provide some of these as many folks use them because they can't use tampons or simply prefer them.
 
-In order to work out how much this is going to cost for your entire workforce you'll need to know how many women you employ. This is your maximum number to provide for, though the number is going to be less as many women don't have periods.
+It is not possible to find out the number of employees you have that need tampons without asking some very personal questions (not an approach we recommend). There are many reasons why you can't simply take the number of women at your company as your number to provide for, here are some of them:
+
+- Not all menstruating folk use disposable sanitary wear
+- Not all women have periods
+- Not all men don't have periods.
+
+As a number to get you started, take the number of women you employ and treat it as your maximum. That won't account for any trans men, but it will over account for women who aren't having periods or don't use tampons.
 
 Providing free tampons and sanitary towels is very cheap per employee, but if you're worried that setting this up is going to cripple your company financially then try a pilot scheme for a few months to see how much it costs.
 
