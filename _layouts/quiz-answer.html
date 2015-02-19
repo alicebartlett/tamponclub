@@ -3,22 +3,22 @@
   {% include head.html %}
 <body>
   {% include top-nav.html %}
-
-  <div class='inner'>
-    <div class='page'>
-      {% include header.html %}
-      <div class='content'>
-        {{ content }}
-        <div class='quiz-nav'>
-           <p>
-             <a href='/tampon-club-for-folks-who-dont-use-tampons/question-1'>
-               Take quiz again
-             </a>
-          </p>
+  <div class='outer'>
+    <div class='inner'>
+      <div class='page'>
+        {% include header.html %}
+        <div class='content'>
+          {{ content }}
+          <div class='quiz-nav'>
+             <p>
+               <a href='/tampon-club-for-folks-who-dont-use-tampons/question-1'>
+                 Take quiz again
+               </a>
+            </p>
+          </div>
         </div>
       </div>
     </div>
-    <div class="pusher"></div>
   </div>
   {% include footer.html %}
 </body>

@@ -3,15 +3,15 @@
   {% include head.html %}
 <body>
   {% include top-nav.html %}
-
-  <div class='inner'>
-    <div class='page'>
-      {% include header.html %}
-      <div class='content'>
-        {{ content }}
+  <div class='outer'>
+    <div class='inner'>
+      <div class='page'>
+        {% include header.html %}
+        <div class='content'>
+          {{ content }}
+        </div>
       </div>
     </div>
-    <div class="pusher"></div>
   </div>
   {% include footer.html %}
 </body>

@@ -3,20 +3,22 @@
   {% include head.html %}
 <body>
   {% include top-nav.html %}
-  <div class='inner'>
-    <div class='quiz'>
-      {% include header.html %}
-      <div class='content'>
-        <h1>{{ page.question-number }}</h1>
-        <h2 id='question'>{{ page.question }}</h2>
-        <p id='subtext'>{{ page.explainer }}</p>
-        <div id='answers'>
-          <a class='button' role="button" href="{{ page.yep }}">
-            Yes
-          </a>
-          <a class='button' role="button" href="{{ page.nope }}">
-            No
-          </a>
+  <div class='outer'>
+    <div class='inner'>
+      <div class='quiz'>
+        {% include header.html %}
+        <div class='content'>
+          <h1>{{ page.question-number }}</h1>
+          <h2 id='question'>{{ page.question }}</h2>
+          <p id='subtext'>{{ page.explainer }}</p>
+          <div id='answers'>
+            <a class='button' role="button" href="{{ page.yep }}">
+              Yes
+            </a>
+            <a class='button' role="button" href="{{ page.nope }}">
+              No
+            </a>
+          </div>
         </div>
       </div>
     </div>
