@@ -38,7 +38,7 @@ So providing free tampons for one person in your office is going to cost about 4
 
 Sanitary towels are more like 15p per unit but are used by fewer people. You should still provide some of these as many folks use them because they can't use tampons or simply prefer them.
 
-It is not possible to find out the number of employees you have that need tampons without asking some very personal questions (not an approach we recommend). There are many reasons why you can't simply take the number of women at your company as your number to provide for, here are some of them:
+It's not possible to find out the number of employees you have that need tampons without asking some very personal questions (not an approach we recommend). There are many reasons why you can't simply take the number of women at your company as your number to provide for, here are some of them:
 
 - Not all menstruating folk use disposable sanitary wear
 - Not all women have periods
