@@ -26,7 +26,7 @@ Estimates of the number of tampons used by a period having individual per year v
 
 169 is the lowest number we've found and 240 is the highest, let's take the mean of those two numbers and call it 204 tampons per year.
 
-Someone working 8 hours per day on a 5 day week with 30 days holiday per year will spend 21% of the year in the office (unless the work from home).
+Someone working 8 hours per day on a 5 day week with 30 days holiday per year will spend 21% of the year in the office (unless they work from home).
 
 21% of 204 = 42.84
 
