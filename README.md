@@ -1,4 +1,4 @@
-alicebartlett.github.io
+Tampon Club Website!
 =======================
 
 This is the website for Tampon Club.
