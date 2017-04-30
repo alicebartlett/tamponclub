@@ -3,7 +3,7 @@ title: Tampon Club starter kits
 layout: page
 ---
 
-#You can now buy Tampon Club starter kits at the #civicshop in Somerset House
+# You can now buy Tampon Club starter kits at the #civicshop in Somerset House
 
 In December [Cassie Robinson](http://twitter.com/CassieRobinson) got in touch with us to ask if we'd like to sell 'Tampon Club starter kits' as part of her [Civic Shop in Somerset House](http://www.civicworkshop.city/civic-shop/).
 
@@ -15,7 +15,7 @@ In December [Cassie Robinson](http://twitter.com/CassieRobinson) got in touch wi
 
 >At the Civic Shop, there are some things that are for sale and some things that are free. Any money made goes back into the causes that inspired the products in the first place. Most of all though, each of the initiatives showcased here is an invitation to participate.
 
-##What's in a Tampon Club starter kit
+## What's in a Tampon Club starter kit
 
 The Tampon Club starter kits contain everything you need to set up a Tampon Club:
 
