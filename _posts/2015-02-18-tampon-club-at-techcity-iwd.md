@@ -3,7 +3,7 @@ title: Tampon Club at Tech City International Women's Day
 layout: page
 ---
 
-#Tampon Club at TechCityIWD!
+# Tampon Club at TechCityIWD!
 
 We're delighted to announce that Tampon Club is one of the exhibitors at the third annual [Tech City International Women's Day Showcase](http://techcityiwd.com/), an evening celebration of women's work in technology and the creative industries.
 
