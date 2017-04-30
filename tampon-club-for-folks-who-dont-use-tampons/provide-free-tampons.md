@@ -5,7 +5,7 @@ permalink: /tampon-club-for-folks-who-dont-use-tampons/provide-free-tampons/
 redirect_from: "/tampon-club-for-dudes/provide-free-tampons/"
 ---
 
-#Great news!
+# Great news!
 
 You're exactly the type of person who can provide free tampons for employees – you don't even _need_ Tampon Club.
 
